@@ -1,0 +1,2 @@
+Info: Script feito em bash para reconhecimento web automatizado, execute o install como sudo.
+Ferramentas: Wpscan, joomscan, dirb, dirsearch, ffuf, Osmedeus, Waybackurls e reconftw. 
