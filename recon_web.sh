@@ -23,7 +23,7 @@ echo
 echo "[+] - Enuneração de portas e serviços no host $HOST - [+]"
 echo "[#] - Executando Nmap - [#]"
 
-#nmap -v -sV -sC -T4 -Pn $HOST -oA $HOST
+nmap -v -sV -sC -T4 -Pn $HOST -oA $HOST
 
 if [ "$2" == "wordpress" ]
 then
